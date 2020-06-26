@@ -1,0 +1,14 @@
+{
+  "name": "@eyevinn/nalu-chunker",
+  "version": "0.1.0",
+  "description": "A transform stream which chunks incoming AVC bitstream into NAL units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyevinn Technology <work@eyevinn.se>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
